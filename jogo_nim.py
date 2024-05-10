@@ -1,3 +1,5 @@
+# Ola isso eh um teste git de 10 de maio d 2024
+
 def partida():
     n = int(input("Quantas peças? "))
     m = int(input("Limite de peças por jogada? "))
